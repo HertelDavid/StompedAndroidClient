@@ -21,7 +21,7 @@ allprojects {
 Next, in your app build.gradle file under dependencies, add this.
 
 ```
-compile 'com.github.HertelDavid:Stomped:1.0'
+compile 'com.github.HertelDavid:StompedAndroidClient:1.0'
 ```
 
 ### Use
