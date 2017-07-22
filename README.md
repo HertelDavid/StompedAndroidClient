@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/HertelDavid/StompedAndroidClient.svg)](https://jitpack.io/#HertelDavid/StompedAndroidClient)
+
 # Stomped
 An **Android** Stomp WebSocket client built using OkHttp WebSockets.
 
